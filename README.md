@@ -1,6 +1,6 @@
 # BF2Sbx_SaveAndLoadServer
 This litte Project will deploy a .war file with mvn using mvn clean package. 
-This .war file can then be run on any webserver which understands .war packages (like tomcat).
+This .war file can then be run on a tomcat server, currently developed for tomcat v10
 
 The code provides a revival of the Shoutdown Sandbox Save and Load server.
 With this, @netsavegroup and @netloadgroup can work again.
