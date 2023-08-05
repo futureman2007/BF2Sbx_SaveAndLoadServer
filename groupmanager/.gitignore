@@ -3,3 +3,4 @@
 /target/groupmanager/*
 /target/maven-archiver/*
 /target/test-classes/*
+/target/groupmanager.war.original
